@@ -1,8 +1,7 @@
-<<<<<<< Updated upstream
+
 hello alok
 first time edit
-=======
  this is first edit
  hello alok
-hello abhi.......
->>>>>>> Stashed changes
+hello abhi
+
